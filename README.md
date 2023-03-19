@@ -15,11 +15,9 @@ npm install
 
 ```javascript
 
-/// Run Development Server
-npm run dev
 
-/// Run Production Build
-npm run build
+npm run dev //Run Development Server
+npm run build //Run Production Build
 
 
 ```
